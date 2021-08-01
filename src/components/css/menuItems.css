@@ -1,0 +1,18 @@
+.main-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.container {
+  font-family: Arial;
+  font-size: 15px;
+  box-sizing: border-box;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 1); /* Black background with 0.5 opacity */
+  color: #ccc;
+  width: 300px;
+  padding: 15px;
+  margin: 1%;
+}
